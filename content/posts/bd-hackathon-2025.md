@@ -19,7 +19,7 @@ I found two really nice teammates namely [Yash](https://github.com/yashranjan1) 
 
 We brainstormed a lot of ideas but we couldn't decide what we wanted to build, we thought of a chat application but scratched that idea because it was too "common", then we thought of a barter application but scratched it as well because it was too big for the timelimit we had, eventually we decided to make a TUI for API Testing because postman was a GUI tool.
 
-We immediately started planning our project and divided tasks among each other, we set up a repo and got to work, me and Shivan workedon the backend part and gave the UI part to Yash because he wanted to do it.
+We immediately started planning our project and divided tasks among each other, we set up a repo and got to work, me and Shivan worked on the backend part and gave the UI part to Yash because he wanted to do it.
 
 Then we worked hard until we had a basic prototype, but after two days we realized that the project was too big for the time limit we had, we also made the mistake to refactor our code, thinking back it might've not been a good decision, we did make some mistakes but that's the point, we were participating to learn something not to win.
 
@@ -27,4 +27,4 @@ Then the day of the submission arrived and we made it presentable, the [project]
 
 Then the day of result arrived, we didn't expect to win because it was uncomplete but even though our project was uncomplete we made it in the honourable mentions and honestly? we were happy about it.
 
-We might've not won or completed the project but we did collaborate and together we learned from each other and we had lots of fun. I think I personally learned a lot of thinks especially since Shivam had a lot more experience than me.
+We might've not won or completed the project but we did collaborate and together we learned from each other and we had lots of fun. I think I personally learned a lot of things especially since Shivam had a lot more experience than me.
