@@ -57,4 +57,6 @@ I finally had a new feature, then I simply implemented notifications on the clie
 
 I have one more feature that I might implement in near future which was message state, because if I didn't have a message state that if the message is read or not then the users wouldn't be able to tell whose messages they have not read yet but that's for another time.
 
+- Project Link: [Chat Application](https://github.com/MudassirDev/go-chat)
+
 I am proud of this little creation I made and I enjoyed it a lot. but yeah, let me know what are your thoughts about this project on my discord: `thevecneccy`
