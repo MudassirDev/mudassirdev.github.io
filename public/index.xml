@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 06 Oct 2025 22:34:56 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>I tried to build a chat application</title>
+      <link>http://localhost:1313/posts/chat-application/</link>
+      <pubDate>Mon, 06 Oct 2025 22:34:56 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chat-application/</guid>
+      <description>&lt;p&gt;I started working on a personal project, the project is still not complete but what I want to talk about is a project that was created for the main project.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;QUICK NOTE&lt;/strong&gt;: I am not going to talk about auth part, that&amp;rsquo;s a talk for another time&lt;/p&gt;&#xA;&lt;p&gt;So I have this project I wanted to complete but after a certain point I realized that a HUGE part of my project is chatting, if users cannot talk to each other on my app then the whole idea is flawed, so I decided to make a new project for learning purposes.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Boot.dev 2025 Hackathon</title>
       <link>http://localhost:1313/posts/bd-hackathon-2025/</link>
       <pubDate>Mon, 06 Oct 2025 22:34:56 +0000</pubDate>
